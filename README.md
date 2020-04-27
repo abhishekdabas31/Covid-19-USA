@@ -13,8 +13,3 @@ Information Source-
 2. https://www.washingtonpost.com/graphics/2020/world/mapping-spread-new-coronavirus/
 3. https://www.washingtonpost.com/health/2020/02/28/what-you-need-know-about-coronavirus/?arc404=true
 
-
-Project By- 
-1.Abhishek aDabas
-2.Apurva Mathur
-3. Akshata Hosamani
